@@ -6,7 +6,7 @@
     es no mostrar otra ves el login sino redireccionarlo
     a su pagina principal mientras exista una sesion entonces
     creamos un archivo que controle el redireccionamiento
-	SOY UNA PIOLOTAAA SI JALO
+	NETA ME MAMÉ CON ESTO
   */
 
   session_start();
