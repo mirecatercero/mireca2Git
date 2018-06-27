@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+#imagen {
+  width:815px;
+  height:1056px;
+  position: fixed;
+  background-image: url("maqueta.jpg");
+}
+
+.tabla {
+  position: absolute;
+  left: 50px;
+  top: 160px;
+    FONT-SIZE: 18px;
+}
+
+.tabla_diag {
+  position: absolute;
+  left: 50px;
+  top: 300px;
+  width: 88%;
+  FONT-SIZE: 18px;
+  TEXT-DECORATION: none ;
+  TEXT-ALIGN:justify;
+  font-family: "Times New Roman", serif;
+  margin-top: 50px;
+}

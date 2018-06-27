@@ -1,0 +1,71 @@
+
+ul.tabs{
+	width: 100%;
+	background: #212529;
+	list-style: none;
+	display: flex;
+	color:white;
+
+}
+ul.tabs li:hover{
+  background: blue;
+}
+ul.tabs li:visited{
+  background: red;
+}
+
+ul.tabs li{
+	width: 18%;
+}
+
+ul.tabs li a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 16px;
+	text-align: center;
+
+	display: block;
+	padding: 20px 0px;
+}
+
+ul.tabs2{
+	width: 100%;
+	background: #800000;
+	list-style: none;
+	display: flex;
+	color:white;
+
+}
+ul.tabs2 li:hover{
+  background: blue;
+}
+ul.tabs2 li:visited{
+  background: red;
+}
+
+ul.tabs2 li{
+	width: 18%;
+}
+
+ul.tabs2 li a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 16px;
+	text-align: center;
+
+	display: block;
+	padding: 20px 0px;
+}
+
+
+ul.tabs li a {
+	margin-left: 8px;
+}
+
+.secciones{
+	width: 100%;
+	background:white;
+}
+
+.secciones article{
+	padding: 30px;
